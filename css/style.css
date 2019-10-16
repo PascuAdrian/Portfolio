@@ -3,7 +3,9 @@
     margin: 0;
     padding: 0;
 }
-
+body header .logo img {
+    max-width:50px;
+}
 header{
     
     height: 105px;
